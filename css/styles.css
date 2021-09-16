@@ -1,0 +1,37 @@
+/* Основной цвет #757575 */
+/* Вторичный #212121 */
+/* цвет фона заднего #E5E5E5 */
+/* Основной фон #FFFFFF */
+/* второй фон #2F303A */
+
+.body-1 {
+  color: #757575;
+}
+
+.body-1-top {
+  background-color: #ffffff;
+}
+.body-1-top-logo {
+  color: #2196f3;
+}
+.body-1-top-logo2 {
+  color: black;
+}
+.body-1-top-link a {
+  color: #212121;
+}
+.body-1-top-link a:hover {
+  color: #2196f3;
+}
+.body-1-top-link a :focus {
+  color: #2196f3;
+}
+.body-1-top-adr a {
+  color: #757575;
+}
+.body-1-top-adr a:hover {
+  color: #2196f3;
+}
+.body-1-top-adr a:focus {
+  color: #2196f3;
+}
