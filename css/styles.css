@@ -35,3 +35,55 @@
 .body-1-top-adr a:focus {
   color: #2196f3;
 }
+.hero {
+  background-color: rgba(47, 48, 58, 1);
+}
+.hero-logo {
+  color: #ffffff;
+}
+.hero-button {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.about {
+  background-color: #ffffff;
+}
+.about-all {
+  color: #757575;
+}
+.about-all-1 {
+  color: #212121;
+}
+.about-alll {
+  background-color: #ffffff;
+}
+.about-alll-1 {
+  color: #212121;
+}
+.our-team {
+  background-color: #f5f4fa;
+}
+.our-team-logo {
+  color: #212121;
+}
+.our-team-name {
+  color: #212121;
+}
+.our-team-work {
+  color: #757575;
+}
+.foot {
+  background-color: #2f303a;
+}
+.foot-logo-1 {
+  color: #2196f3;
+}
+.foot-logo-2 {
+  color: #ffffff;
+}
+.foot-adres-1 {
+  color: #ffffff;
+}
+.foot-adres-2 {
+  color: #ffffff99;
+}
