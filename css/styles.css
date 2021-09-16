@@ -87,3 +87,21 @@
 .foot-adres-2 {
   color: #ffffff99;
 }
+.portfolio-button {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+.portfolio-button:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.portfolio-button:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.portfolio-log {
+  color: #212121;
+}
+.portfolio-text {
+  color: #757575;
+}
