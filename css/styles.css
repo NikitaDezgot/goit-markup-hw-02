@@ -25,6 +25,7 @@ button {
   font-size: 26px;
   line-height: 1.2;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 .body-1-top-logo2 {
   color: black;
@@ -32,6 +33,7 @@ button {
   font-size: 26px;
   line-height: 1.2;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 .body-1-top-link {
   color: #212121;
@@ -39,6 +41,7 @@ button {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  cursor: pointer;
 }
 .body-1-top-link a:hover {
   color: #2196f3;
@@ -78,6 +81,7 @@ button {
   line-height: 1.2;
   align-items: center;
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 .about {
   background-color: #ffffff;
@@ -150,6 +154,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.03em;
 }
+
 .foot-logo-2 {
   color: #ffffff;
   font-family: Raleway, cursive;
@@ -176,7 +181,14 @@ button {
   line-height: 1.2;
   letter-spacing: 0.03em;
 }
-.portfolio-button {
+.foot a:hover {
+  color: #2196f3;
+}
+.foot a:focus {
+  color: #2196f3;
+}
+
+.foot .portfolio-button {
   background-color: #f5f4fa;
   color: #212121;
   font-weight: 500;
@@ -184,6 +196,7 @@ button {
   line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 .portfolio-button:hover {
   background-color: #2196f3;
